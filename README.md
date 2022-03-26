@@ -3,7 +3,7 @@
 </div>
 
 # Animated Log-In page
-The simple code to create Static landing page for Animated `Log-In Page` using HTML & CSS.
+The simple code to create static landing page for Animated `Log-In Page` using HTML & CSS.
 
 ### Prerequisites
 - HTML
