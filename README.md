@@ -1,14 +1,9 @@
-# Animated Log-in page
-
-Static landing page for Animated Log-in Page. 
-<!-- Visit <a href="https://vikrant-v28.github.io/">Here</a> -->
-
 <div align="center">
   <img height="60" src="https://user-images.githubusercontent.com/85709371/153715643-d0d2a5b8-3be9-41bc-9885-de1dc5808a20.png">
 </div>
 
-# Calculator-UI
-The simple code to create `Calculator-UI` using HTML & CSS.
+# Animated Log-In page
+The simple code to create Static landing page for Animated `Log-In Page` using HTML & CSS.
 
 ### Prerequisites
 - HTML
